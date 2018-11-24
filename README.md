@@ -20,7 +20,7 @@ Note this is designed for subtle enhancements to your app, it is not a comprehen
 ## Usage
 
 ```js
-// Animating contents of e.g. ```Flatlist``` - the index is used to calculate the cascade order
+// Animating cells of e.g. Flatlist - the index is used to calculate the cascade order
 
 renderItem = (info) => {
   return (
