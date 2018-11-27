@@ -2,7 +2,7 @@
 ✨ Subtle animation wrapper for your React component
 
 ## Introduction
-A lightweight wrapper for React Native. Animate a component's entrance using translate and opacity individually.
+A lightweight wrapper for React Native. Animate a component's entrance using translate and opacity individually. Animation takes place on draw, any child components can consume from state without replaying the entrance.
 
 Note this is designed for subtle enhancements to your app, it is not a comprehensive animation library.
 
