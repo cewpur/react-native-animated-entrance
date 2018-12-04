@@ -19,9 +19,9 @@ export default class AnimatedEntrance extends React.PureComponent {
   static defaultProps = {
     order: 1,
     duration: 400,
-    axis: AnimatedEntrance.axis.horizontal
+    axis: 'translateX',
     offset: 20,
-    delay: 110,
+    delay: 110
   }
 
   static propTypes = {
