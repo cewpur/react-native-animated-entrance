@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-entrance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "✨ Subtle animation wrapper for your React component",
   "main": "index.js",
   "scripts": {
